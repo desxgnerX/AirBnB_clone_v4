@@ -1,4 +1,4 @@
-<img src="https://github.com/desxgnerX/AirBnB_clone_v4/tree/main/dev/HBTN-hbnb-Final.png" width="160" height=auto />
+<img src="https://github.com/desxgnerX/AirBnB_clone_v4/blob/main/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
 # AirBnB Clone: Phase # 4
 
