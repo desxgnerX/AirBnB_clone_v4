@@ -213,13 +213,7 @@ github repo
 
 ## Authors
 
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
-* Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
-* Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
-* Melissa Ng [MelissaN](https://github.com/MelissaN) | [@MelissaNg__](https://twitter.com/MelissaNg__)
-* Lisa Olson [lisaolson](https://github.com/lisaolson) | [@eunoia_lo](https://twitter.com/eunoia_lo)
+* Tanaka Sipindiye, [@desxgnerX](https://github.com/desxgnerX)
 
 ## License
 
